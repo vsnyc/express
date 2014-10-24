@@ -1,3 +1,8 @@
+unreleased
+==========
+
+  * Match routes iteratively to prevent stack overflows
+
 4.10.0 / 2014-10-23
 ===================
 
